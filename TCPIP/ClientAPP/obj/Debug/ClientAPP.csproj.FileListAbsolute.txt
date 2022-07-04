@@ -1,0 +1,13 @@
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\bin\Debug\ClientAPP.exe.config
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\bin\Debug\ClientAPP.exe
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\bin\Debug\ClientAPP.pdb
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\bin\Debug\SimpleTCP.dll
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.csproj.AssemblyReference.cache
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.Properties.Resources.resources
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.csproj.GenerateResource.cache
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.csproj.CoreCompileInputs.cache
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.csproj.CopyComplete
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.exe
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.pdb
+C:\Users\joseg\source\repos\TCPIP\ClientAPP\obj\Debug\ClientAPP.Cliente.resources

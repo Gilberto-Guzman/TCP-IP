@@ -1,0 +1,13 @@
+C:\Users\joseg\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe.config
+C:\Users\joseg\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe
+C:\Users\joseg\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.pdb
+C:\Users\joseg\source\repos\TCPIP\TCPIP\bin\Debug\SimpleTCP.dll
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.AssemblyReference.cache
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.Properties.Resources.resources
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.GenerateResource.cache
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.CoreCompileInputs.cache
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.CopyComplete
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.exe
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.pdb
+C:\Users\joseg\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.Servidor.resources
